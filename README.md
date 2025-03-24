@@ -27,7 +27,7 @@ The OAuth2 Auth Server is a comprehensive authentication and authorization platf
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/oauth2-auth-server.git
+    git clone https://github.com/DarkC0der-0/oauth2-auth-server.git
     cd oauth2-auth-server/backend
     ```
 
