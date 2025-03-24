@@ -1,8 +1,8 @@
-# User Management System
+# OAuth2 Auth Server
 
 ## Overview
 
-The User Management System is a comprehensive authentication and authorization platform designed to manage users, roles, and permissions. It includes a FastAPI backend for handling API requests, a PostgreSQL database for storing user data, Redis for caching and rate limiting, and a React frontend served via Nginx for the user interface. The system supports multi-factor authentication (MFA) and audit logging for critical actions.
+The OAuth2 Auth Server is a comprehensive authentication and authorization platform designed to manage users, roles, and permissions. It includes a FastAPI backend for handling API requests, a PostgreSQL database for storing user data, Redis for caching and rate limiting, and a React frontend served via Nginx for the user interface. The system supports multi-factor authentication (MFA) and audit logging for critical actions.
 
 ## Features
 - User authentication and authorization
@@ -27,8 +27,8 @@ The User Management System is a comprehensive authentication and authorization p
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/user-management-system.git
-    cd user-management-system/backend
+    git clone https://github.com/your-username/oauth2-auth-server.git
+    cd oauth2-auth-server/backend
     ```
 
 2. Install Python dependencies:
